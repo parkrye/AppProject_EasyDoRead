@@ -1,4 +1,4 @@
-# 리드온리 (Read Only)
+# EasyDoRead
 
 안드로이드 문서 리더. txt · md · html · Claude Artifact · epub · pdf · 이미지 · hwp/hwpx · docx.
 
@@ -8,9 +8,9 @@
 
 | 파일 | 대상 |
 |---|---|
-| `ReadOnly-<버전>-arm64-v8a.apk` | 대부분의 최근 휴대전화 (64비트) |
-| `ReadOnly-<버전>-armeabi-v7a.apk` | 구형 · 저사양 32비트 기기 |
-| `ReadOnly-<버전>-universal.apk` | 기기 종류를 모를 때 (위 두 가지 포함, 용량 큼) |
+| `EasyDoRead-<버전>-arm64-v8a.apk` | 대부분의 최근 휴대전화 (64비트) |
+| `EasyDoRead-<버전>-armeabi-v7a.apk` | 구형 · 저사양 32비트 기기 |
+| `EasyDoRead-<버전>-universal.apk` | 기기 종류를 모를 때 (위 두 가지 포함, 용량 큼) |
 
 - 처음 설치 시 "출처를 알 수 없는 앱" 설치 허용 필요. Play 프로텍트가 검사 화면을 띄울 수 있음
 - 업데이트는 새 APK를 같은 방식으로 덮어 설치. 읽기 기록 · 설정 유지
