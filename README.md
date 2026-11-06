@@ -4,7 +4,7 @@
 
 ## 다운로드
 
-최신 버전 0.2.0 — [Releases](https://github.com/parkrye/AppProject_EasyDoRead/releases)에서 기기에 맞는 APK 하나를 받아 설치. Android 8.0 이상.
+최신 버전 0.2.1 — [Releases](https://github.com/parkrye/AppProject_EasyDoRead/releases)에서 기기에 맞는 APK 하나를 받아 설치. Android 8.0 이상.
 
 | 파일 | 대상 |
 |---|---|
